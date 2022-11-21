@@ -1,3 +1,3 @@
 # laprak
-![Source Code](Pseudocode/latihan.py)
-![Source Code](Pseudocode/tugas%20praktikum.py)
+[Source Code](latihan.py)
+[Source Code](praktikum.py)
